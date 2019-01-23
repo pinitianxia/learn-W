@@ -60,7 +60,7 @@ https://github.com/yujiangshui/A-Programmers-Guide-to-English.git (英语学习)
 （1）自己在本地用express.js起一个后台服务，用chrome应用“postman”尝试和这个进程进行交互调试
 【90%】
 （2）再在本地用webpack开启前端进程和自己的后端进程进行交互
-【100%】
+【100】
 （3）反复使用git的各种操作，至少包括〔add commit push fetch pull diff remote config〕
 【】
 （4）最后在自己的服务器上起一个后端进程，和自己本地的前端进程进行交互（会遇到跨域问题，百度一下怎么在后端解决跨域问题，顺便掌握一下跨域问题是什么，有哪些解决方式）
